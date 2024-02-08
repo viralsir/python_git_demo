@@ -9,3 +9,5 @@ if no1>0 and no2>0 :
 else :
     print("nagetive input are invalid")
 print("end program");
+
+print ("hello from samir")
