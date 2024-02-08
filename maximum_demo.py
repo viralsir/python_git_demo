@@ -8,3 +8,4 @@ if no1>0 and no2>0 :
         print(no2, " is a maximum no")
 else :
     print("nagetive input are invalid")
+print("end program");
